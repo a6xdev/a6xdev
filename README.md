@@ -1,7 +1,4 @@
 ## Hi there, I'm Aislan!
-Hello, i'm a game programmer specialized in Godot Engine and studying to be graphics programmer.
-
-## Technologies
 
 <div align="center">
   <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
