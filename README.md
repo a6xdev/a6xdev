@@ -1,12 +1,6 @@
 ## Hi there, I'm Aislan!
 
-A Gameplay & AI Programmer with 3 years of development experience. I’m comfortable building enemy AI, vehicles systems, gameplay programming, and tools for other developers. I am currently freelancing, and it has been fun learning how to manage multiple projects with different scopes and structures. I am interested in joining a studio as a Junior Developer. Please check out my work below and let me know if you have any questions. Thanks!
-
-My journey started out of pure curiosity, one day when I was 12 or 13 years old after hearing my friends talk about create a game at school and when I got home I researched about gamedev and I love everything about it. I wanted to be an environment artist, but one of my best friends showed me the world of programming.
-
-I have a deep fascination with how games and movies create immersion, tension and that felling that you are experiencing a true work of art and I based my passion for creating on it. Because my own spark for coding came from a friend, I deeply value collaboration. I believe that working alongside a talented and passionate team is what truly transforms the creative process.
-
-Today, I specialize in Gameplay Systems, AI Architecture, and Development Tools. I enjoy building systems that help bring game worlds to life, whether through player interactions, AI behaviors, or tools that improve development workflows. Gameplay programming is my favorite area because, for me, it's not just about making things work. It's about creating what the player will experience. I love building systems that directly influence immersion and pacing, creating those subtle details that make a game feel great, even when players can't fully explain why.
+I specialize in Gameplay Systems, AI Architecture, and Development Tools. I enjoy building systems that help bring game worlds to life, whether through player interactions, AI behaviors, or tools that improve development workflows. Gameplay programming is my favorite area because, for me, it's not just about making things work. It's about creating what the player will experience. I love building systems that directly influence immersion and pacing, creating those subtle details that make a game feel great, even when players can't fully explain why.
 
 ## Languages, Tech & Tools
 <div align="center">
@@ -19,9 +13,6 @@ Today, I specialize in Gameplay Systems, AI Architecture, and Development Tools.
   <img alt="VisualStudio" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white"/>
   <img alt="Godot Engine" src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white"/>
   <img alt="Blender" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" />
-</div>
-
-<div align="center">
 </div>
 
 ## Frontend Stack
