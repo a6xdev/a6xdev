@@ -15,3 +15,7 @@ I specialize in Gameplay Systems, AI Architecture, and Development Tools. I enjo
   <img alt="Godot Engine" src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white"/>
   <img alt="Blender" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" />
 </div>
+
+## Credits
+
+[Profile icon uses artwork by Adrian Bush](https://cara.app/plunteere)
