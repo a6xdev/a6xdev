@@ -1,6 +1,6 @@
 ## Hi there, I'm Aislan!
 
-I specialize in Gameplay Systems, AI Architecture, and Development Tools. I enjoy building systems that help bring game worlds to life, whether through player interactions, AI behaviors, or tools that improve development workflows. Gameplay programming is my favorite area because, for me, it's not just about making things work. It's about creating what the player will experience. I love building systems that directly influence immersion and pacing, creating those subtle details that make a game feel great, even when players can't fully explain why.
+My journey started out of pure curiosity, When I was 12 or 13, after hearing my friends at school talking about making a game, and once I got home and started researching game development, I was hooked. I originally wanted to be an environment artist, but one of my best friends introduced me to programming instead. Today, I specialize in Gameplay Systems, AI Architecture, and Development Tools. I enjoy building systems that help bring game worlds to life, whether through player interactions, AI behaviors, or tools that improve development workflows.
 
 ## Languages, Tech & Tools
 <div align="center">
